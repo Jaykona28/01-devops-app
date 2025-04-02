@@ -1,5 +1,5 @@
-Class Demo
+class Demo
 {
-	
+ System.out.println("Hello World");	
 	
 }
